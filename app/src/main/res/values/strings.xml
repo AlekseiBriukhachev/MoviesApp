@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MoviesApp</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_year">2016</string>
+    <string name="movie_poster">Poster</string>
+    <string name="movie_genre">Genre</string>
+    <string name="search_hint">Movie title</string>
 </resources>
